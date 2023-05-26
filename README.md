@@ -1,6 +1,6 @@
 <!--=====TITULO=====-->
 <section>
-  <h1 align="center"><b><i>&#x260E Banco de Dados de Lista Telefônica- Database Phone List &#x1F4D3<br><br></i></b></h1>
+  <h1 align="center"><b><i>	&#x1F5A5 Windows 98 &#x1F4BE<br><br></i></b></h1>
 </section>
 <!--=====TITULO=====-->
 
